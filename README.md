@@ -1,4 +1,12 @@
+# react-firebase-facebook-clone-app 🚀
+
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/react-firebase-facebook-clone-app/issues/new)
 ![structure](structure.png)
 
-# facebook-clone-app
-reactjs + firebase
+## FB
+### authentication
+![authentication](authentication.png)
+### db
+![db](db.png)
+### hosting
+![hosting](hosting.png)
